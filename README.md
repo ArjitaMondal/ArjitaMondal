@@ -35,8 +35,8 @@ I'm an EEE undergraduate passionate about exploring emerging technologies and de
 
 ### 📫 Connect With Me
 
-* 💼 LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
-* 💻 GitHub: [GitHub Profile](https://github.com/)
+* 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/)
+* 💻 GitHub: [GitHub](https://github.com/)
 
 ---
 
